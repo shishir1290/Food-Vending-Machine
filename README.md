@@ -1,2 +1,2 @@
-# C-
+# Food Vending Machine
 C# project
